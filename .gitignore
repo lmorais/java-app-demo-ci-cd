@@ -23,5 +23,9 @@ out/
 # Maven
 target/
 
+<<<<<<< HEAD
 .sh
+=======
+*.sh
+>>>>>>> First commit
 
