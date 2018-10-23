@@ -21,10 +21,6 @@
 ### Run app:
 
 ```
-> mv run.sh.sample run.sh
-
-> chmod +x run.sh
-
-> ./run.sh
+> docker run --rm -it -p 8080:8080 java-app-demo
 
 ```
